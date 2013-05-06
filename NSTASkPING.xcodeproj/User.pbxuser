@@ -1,0 +1,157 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* NSTASkPINGAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {725, 646}}";
+			sepNavSelRange = "{386, 36}";
+			sepNavVisRange = "{0, 637}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* NSTASkPINGAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            c =             (\n                                {\n                    r = \"{437, 62}\";\n                    s = 0;\n                }\n            );\n            r = \"{424, 1166}\";\n            s = 0;\n        },\n                {\n            r = \"{1623, 225}\";\n            s = 0;\n        },\n                {\n            r = \"{1887, 294}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    l = condition;\n                    r = \"{2463, 13}\";\n                    s = 1;\n                },\n                                {\n                    l = statements;\n                    r = \"{2483, 14}\";\n                    s = 1;\n                }\n            );\n            r = \"{2229, 458}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6097}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {923, 2314}}";
+			sepNavSelRange = "{617, 0}";
+			sepNavVisRange = "{3234, 724}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CEF5BEF917346B0E00FE098F /* NSTASkPING */;
+		activeTarget = 8D1107260486CEB800E47090 /* NSTASkPING */;
+		breakpoints = (
+		);
+		codeSenseManager = CEF5BF0D17346B2900FE098F /* Code sense */;
+		executables = (
+			CEF5BEF917346B0E00FE098F /* NSTASkPING */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					745,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 389490660;
+			PBXWorkspaceStateSaveDate = 389490660;
+		};
+		perUserProjectItems = {
+			CE5178CA1735E4EB0071C4AC /* PlistBookmark */ = CE5178CA1735E4EB0071C4AC /* PlistBookmark */;
+			CE5178E51735EC2D0071C4AC /* PBXTextBookmark */ = CE5178E51735EC2D0071C4AC /* PBXTextBookmark */;
+			CEDDB6AC173727D800021DA8 /* PBXTextBookmark */ = CEDDB6AC173727D800021DA8 /* PBXTextBookmark */;
+			CEDDB6DC17372A8900021DA8 /* PBXTextBookmark */ = CEDDB6DC17372A8900021DA8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CEF5BF0C17346B2900FE098F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* NSTASkPING */ = {
+		activeExec = 0;
+		executables = (
+			CEF5BEF917346B0E00FE098F /* NSTASkPING */,
+		);
+	};
+	CE5178CA1735E4EB0071C4AC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NSTASkPING-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/User/Desktop/TRuDay/MacCO/NSTASkPING/NSTASkPING-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CE5178E51735EC2D0071C4AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* NSTASkPINGAppDelegate.h */;
+		name = "NSTASkPINGAppDelegate.h: 17";
+		rLen = 36;
+		rLoc = 386;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	CEDDB6AC173727D800021DA8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* NSTASkPINGAppDelegate.m */;
+		name = "NSTASkPINGAppDelegate.m: 143";
+		rLen = 0;
+		rLoc = 2812;
+		rType = 0;
+		vrLen = 1341;
+		vrLoc = 3586;
+	};
+	CEDDB6DC17372A8900021DA8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* NSTASkPINGAppDelegate.m */;
+		name = "NSTASkPINGAppDelegate.m: 142";
+		rLen = 0;
+		rLoc = 2756;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 5373;
+	};
+	CEF5BEF917346B0E00FE098F /* NSTASkPING */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NSTASkPING;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CEF5BF0C17346B2900FE098F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CEF5BF0D17346B2900FE098F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
