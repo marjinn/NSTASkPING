@@ -64,8 +64,7 @@
 		[nc addObserver:self
 			   selector:@selector(taskTerminated:)
 				   name:NSTaskDidTerminateNotification
-				 object:task];
-		
+				 object:task];	
 		[task launch];
 		[outputView setString:@"Ping Has Started...\n"];
 		
@@ -130,7 +129,7 @@
 	*/
 	
 	NSLog(@"Task code:%d",status);
-	NSLog(@"%l",[[note object]terminationReason]);
+//choschosenDirrg(@"%l",[[note object]terminationReason]);
 
 
 }
@@ -150,6 +149,11 @@
 	[fileOpnPanel setResolvesAliases:YES];
 	[fileOpnPanel setAllowsMultipleSelection:NO];	
 	
+	[fileOpnPanel beginWithCompletionHandler:^(NSInteger result) {
+		NSURL* chosenDir = fileOpnPanel.URL;
+		NSLog(@"adsdadsadasdasdad%@",chosenDir);
+	}];
+	 
 	if([fileOpnPanel runModal] == NSOKButton)
 	{
 		NSString *selectedFileName = 

@@ -9,10 +9,10 @@
 	};
 	256AC3D90F4B6AC300CF3369 /* NSTASkPINGAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            c =             (\n                                {\n                    r = \"{437, 62}\";\n                    s = 0;\n                }\n            );\n            r = \"{424, 1166}\";\n            s = 0;\n        },\n                {\n            r = \"{1623, 225}\";\n            s = 0;\n        },\n                {\n            r = \"{1887, 294}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    l = condition;\n                    r = \"{2463, 13}\";\n                    s = 1;\n                },\n                                {\n                    l = statements;\n                    r = \"{2483, 14}\";\n                    s = 1;\n                }\n            );\n            r = \"{2229, 458}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6097}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {923, 2314}}";
-			sepNavSelRange = "{617, 0}";
-			sepNavVisRange = "{3234, 724}";
+			sepNavFolds = "{\n    c =     (\n                {\n            l = condition;\n            r = \"{2461, 13}\";\n            s = 1;\n        },\n                {\n            l = statements;\n            r = \"{2481, 14}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6260}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {923, 3770}}";
+			sepNavSelRange = "{3161, 0}";
+			sepNavVisRange = "{2675, 1316}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -48,14 +48,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 389490660;
-			PBXWorkspaceStateSaveDate = 389490660;
+			PBXPerProjectTemplateStateSaveDate = 390171819;
+			PBXWorkspaceStateSaveDate = 390171819;
 		};
 		perUserProjectItems = {
 			CE5178CA1735E4EB0071C4AC /* PlistBookmark */ = CE5178CA1735E4EB0071C4AC /* PlistBookmark */;
 			CE5178E51735EC2D0071C4AC /* PBXTextBookmark */ = CE5178E51735EC2D0071C4AC /* PBXTextBookmark */;
-			CEDDB6AC173727D800021DA8 /* PBXTextBookmark */ = CEDDB6AC173727D800021DA8 /* PBXTextBookmark */;
-			CEDDB6DC17372A8900021DA8 /* PBXTextBookmark */ = CEDDB6DC17372A8900021DA8 /* PBXTextBookmark */;
+			CECDEAD217418E1C00FDE6FA /* XCBuildMessageTextBookmark */ = CECDEAD217418E1C00FDE6FA /* XCBuildMessageTextBookmark */;
+			CECDEAD317418E1C00FDE6FA /* PBXTextBookmark */ = CECDEAD317418E1C00FDE6FA /* PBXTextBookmark */;
 		};
 		sourceControlManager = CEF5BF0C17346B2900FE098F /* Source Control */;
 		userBuildSettings = {
@@ -88,25 +88,24 @@
 		vrLen = 637;
 		vrLoc = 0;
 	};
-	CEDDB6AC173727D800021DA8 /* PBXTextBookmark */ = {
+	CECDEAD217418E1C00FDE6FA /* XCBuildMessageTextBookmark */ = {
 		isa = PBXTextBookmark;
+		comments = "'taschosenDir' undeclared (first use in this function)";
 		fRef = 256AC3D90F4B6AC300CF3369 /* NSTASkPINGAppDelegate.m */;
-		name = "NSTASkPINGAppDelegate.m: 143";
-		rLen = 0;
-		rLoc = 2812;
-		rType = 0;
-		vrLen = 1341;
-		vrLoc = 3586;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 66;
+		rType = 1;
 	};
-	CEDDB6DC17372A8900021DA8 /* PBXTextBookmark */ = {
+	CECDEAD317418E1C00FDE6FA /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 256AC3D90F4B6AC300CF3369 /* NSTASkPINGAppDelegate.m */;
-		name = "NSTASkPINGAppDelegate.m: 142";
+		name = "NSTASkPINGAppDelegate.m: 154";
 		rLen = 0;
-		rLoc = 2756;
+		rLoc = 3186;
 		rType = 0;
-		vrLen = 724;
-		vrLoc = 5373;
+		vrLen = 1316;
+		vrLoc = 2700;
 	};
 	CEF5BEF917346B0E00FE098F /* NSTASkPING */ = {
 		isa = PBXExecutable;
